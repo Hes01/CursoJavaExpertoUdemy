@@ -1,6 +1,6 @@
 # HOLA GENTE BUENAS ESTOY PRACTICANDO MARK DOWN UN POCO CON LA DOCUMENTACIÓN DE SU PAGINA OFFICIAL Y ESO 🧑
 
-######Esto se hace con img.shields.io una web que te ayuda a hacer esto se le llama distintivo (badge) de GitHub para mostrar algo como por ejm sitio web etc en su pagina puedes hacerlo a tu medida personalizar, lo se usar a medias pero es intuitivo.
+###### Esto se hace con img.shields.io una web que te ayuda a hacer esto se le llama distintivo (badge) de GitHub para mostrar algo como por ejm sitio web etc en su pagina puedes hacerlo a tu medida personalizar, lo se usar a medias pero es intuitivo.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
