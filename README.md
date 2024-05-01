@@ -1,4 +1,4 @@
-# HOLA GENTE BUENAS ESTOY PRACTICANDO MARK DOWN UN POCO CON LA DOCUMENTACIÓN DE SU PAGINA OFFICIAL Y ESO 🧑
+# HOLA GENTE 🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️ BUENAS ESTOY PRACTICANDO MARK DOWN UN POCO CON LA DOCUMENTACIÓN DE SU PAGINA OFFICIAL Y ESO 😁😁😁😁😁😁😁😁😁😁😁😁
 
 ###### Esto se hace con img.shields.io una web que te ayuda a hacer esto se le llama distintivo (badge) de GitHub para mostrar algo como por ejm sitio web etc en su pagina puedes hacerlo a tu medida personalizar, lo se usar a medias pero es intuitivo.
 
@@ -8,7 +8,7 @@
 
 ![](https://media.licdn.com/dms/image/D4E03AQFRDsFCrZT0gQ/profile-displayphoto-shrink_200_200/0/1706202352946?e=2147483647&v=beta&t=siGc4AEovhqCWmy3z5xDPsnM3-j4Suq6wsK_KFhiIm0) 
 
-### Si quieres descargarte esto puedes hacerlo el codigo esta comentado y bueno estoy haciendo este readme para aprender Markdown ya sabes jeje [Instagram](https://www.instagram.com/elvis_h_f/)
+### Si quieres descargarte esto puedes hacerlo el codigo esta comentado y bueno estoy haciendo este readme para aprender Markdown ya sabes jeje por aqui mi instagram [Instagram](https://www.instagram.com/elvis_h_f/)
 
 > ##### Si quieres mandarme animo :D puedes hacerlo, haciendo "★ Star" en el repositorio. ¡Gracias!
 
@@ -17,7 +17,7 @@
 - vienen ordenados por paquetes el primero el hello_world es donde inicio desde definir varibles etc
 - luego viene en el segundo poo que es donde voy y bueno ya sabes ignora esto porque solo es relleno te dije para aprender markdown xd
 
-Y seguro que seguire haciendo varios push a medida que vaya avanzando xd porque tambien practico git...
+Y seguro que seguire haciendo varios push a medida que vaya avanzando porque tambien practico git...
 
 ## Y como dijo cr7 siuuuuuuuuuuuuuuuuuuuuuuuuuuu! y toma awita es bueno coca cola no awita sip!
 
@@ -48,15 +48,12 @@ Y tambien estudiar, divertirse y esas cosas,por ahi pongo un libro de git.
 >
 > y bueno que aqui dire una frase: Hay dos palabras que te abrirán muchas puertas: Tire y Empuje ~No se quien es el autor xd.
 
-
 #### Sabias que en github puedes nominar a alguien haciendo "☆ Star" en el repo o nominar a "GitHub Star". ¡OMG!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 Link a mi perfil:
-
 ![GitHub Followers](https://avatars.githubusercontent.com/u/114400757?v=4)
 
 Soy estudiante de ing. informatica y ya esta, por aqui un link a la pagina de cr7 xd **[@cr7](https://www.cristianoronaldo.com/#cr7)**.
 
-...
