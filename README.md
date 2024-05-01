@@ -4,9 +4,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
-## Este es un curso de java que estoy siguiendo en udemy del profesor "Andres Guzman"
+## Este es un curso de java que estoy siguiendo en udemy del profesor "Andres Guzman" ese que se ve abajo es el profe.
 
-- ![](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg) 
+![](https://media.licdn.com/dms/image/D4E03AQFRDsFCrZT0gQ/profile-displayphoto-shrink_200_200/0/1706202352946?e=2147483647&v=beta&t=siGc4AEovhqCWmy3z5xDPsnM3-j4Suq6wsK_KFhiIm0) 
 
 ### Si quieres descargarte esto puedes hacerlo el codigo esta comentado y bueno estoy haciendo este readme para aprender Markdown ya sabes jeje [Instagram](https://www.instagram.com/elvis_h_f/)
 
