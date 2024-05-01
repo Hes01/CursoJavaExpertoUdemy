@@ -1,6 +1,6 @@
-# HOLLA GENTE BUENAS ESTOY PRACTICANDO MARK DOWN UN POCO CON LA DOCUMENTACIÓN DE SU PAGINA OFFICIAL Y ESO 🧑
+# HOLA GENTE BUENAS ESTOY PRACTICANDO MARK DOWN UN POCO CON LA DOCUMENTACIÓN DE SU PAGINA OFFICIAL Y ESO 🧑
 
-[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-2.35+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
 ## Este es un curso de java que estoy siguiendo en udemy del profesor "Andres Guzman"
