@@ -52,7 +52,8 @@ Y tambien estudiar, divertirse y esas cosas,por ahi pongo un libro de git.
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-Link a mi perfil:
+# THANKS FOR WATCH 
+
 ![GitHub Followers](https://avatars.githubusercontent.com/u/114400757?v=4)
 
 Soy estudiante de ing. informatica y ya esta, por aqui un link a la pagina de cr7 xd **[@cr7](https://www.cristianoronaldo.com/#cr7)**.
