@@ -6,7 +6,7 @@
 
 ## Este es un curso de java que estoy siguiendo en udemy del profesor "Andres Guzman"
 
-- ![](https://e00-marca.uecdn.es/assets/sports/logos/football/png/144x144/186.png) 
+- ![](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg) 
 
 ### Si quieres descargarte esto puedes hacerlo el codigo esta comentado y bueno estoy haciendo este readme para aprender Markdown ya sabes jeje [Instagram](https://www.instagram.com/elvis_h_f/)
 
