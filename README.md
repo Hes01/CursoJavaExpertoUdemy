@@ -1,4 +1,4 @@
-# Hello Git & GitHub 
+# HOLLA GENTE BUENAS ESTOY PRACTICANDO MARK DOWN UN POCO CON LA DOCUMENTACIÓN DE SU PAGINA OFFICIAL Y ESO 🧑
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
@@ -37,22 +37,18 @@ Y tambien estudiar, divertirse y esas cosas,por ahi pongo un libro de git.
 
 ## Video de cr7 siuuuuu
 
-
-<iframe width="560" height="315" src="https://www.cristianoronaldo.com/files/highlights/CR7_WebsiteHighlights-Sporting_desktop.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ℹ️ Si quieres ver mas busca en yt.
 
 <a href="https://www.youtube.com/watch?v=xqFTe96OWPU&pp=ygUHY3I3IHNpdQ%3D%3D"><img src="https://www.cristianoronaldo.com/assets/images/brand_eyewear.jpg?t=832236" style="height: 50%; width:50%;"/></a>
 
 - [cr7-explicando el siu xd](https://youtube.com/shorts/NuDdU4UxsJk?feature=shared)
 
-
 > ### Ejercicio para practicar lo aprendido:
 >
 > y bueno que aqui dire una frase: Hay dos palabras que te abrirán muchas puertas: Tire y Empuje ~No se quien es el autor xd.
 
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+#### Sabias que en github puedes nominar a alguien haciendo "☆ Star" en el repo o nominar a "GitHub Star". ¡OMG!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
