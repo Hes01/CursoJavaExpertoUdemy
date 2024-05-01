@@ -36,7 +36,10 @@ Y tambien estudiar, divertirse y esas cosas,por ahi pongo un libro de git.
 > **Nota importante**: Solo no hay remedio para la muerte lo demas si ~CR/ [Media/Book screenshots](./Media/Book%20screenshots) del repositorio.
 
 ## Video de cr7 siuuuuu
-<video width="320" height="240" controls> <source src="https://www.cristianoronaldo.com/files/highlights/CR7_WebsiteHighlights-Sporting_desktop.mp4" type="video/mp4"></video>
+
+
+<iframe width="560" height="315" src="https://www.cristianoronaldo.com/files/highlights/CR7_WebsiteHighlights-Sporting_desktop.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ℹ️ Si quieres ver mas busca en yt.
 
 <a href="https://www.youtube.com/watch?v=xqFTe96OWPU&pp=ygUHY3I3IHNpdQ%3D%3D"><img src="https://www.cristianoronaldo.com/assets/images/brand_eyewear.jpg?t=832236" style="height: 50%; width:50%;"/></a>
