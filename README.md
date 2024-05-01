@@ -12,7 +12,7 @@
 
 > ##### Si quieres mandarme animo :D puedes hacerlo, haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Que ahi en estos archivos 
+## Que hay en estos archivos? 
 
 - vienen ordenados por paquetes el primero el hello_world es donde inicio desde definir varibles etc
 - luego viene en el segundo poo que es donde voy y bueno ya sabes ignora esto porque solo es relleno te dije para aprender markdown xd
