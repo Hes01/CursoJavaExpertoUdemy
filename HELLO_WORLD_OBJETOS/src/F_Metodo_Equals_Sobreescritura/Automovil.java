@@ -1,4 +1,4 @@
-package E_Constructores;
+package F_Metodo_Equals_Sobreescritura;
 
 public class Automovil {
 
@@ -110,4 +110,27 @@ public class Automovil {
     }
 
 
+    /*
+    *                        SOBREESCRITURA DE METODOS QUE YA EXISTEN
+    *
+    * @Override: Es una marca que se le indica al compilador para hacerle saber que se esta sobreescribiendo un metodo
+    * */
+
+    @Override
+    public boolean equals(Object obj) {
+
+        if(this ==obj){//si ambos objetos son iguales por referencia retornamos true
+            return true;
+        }
+
+        //para evitar comparar de distintas instancias
+        if(!(obj instanceof Automovil)){//si obj pasado no es instancia de automovil entonces falso
+            return false;
+        }
+
+
+        Automovil a = (Automovil) obj;//casteamos el objeto
+        return (this.fabricante!=null && this.fabricante.equals(a.getFabricante())
+                && this.modelo!=null && this.modelo.equals(a.getModelo()));
+    }
 }
