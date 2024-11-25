@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HELLO_WORLD/HELLO_WORLD.iml" filepath="$PROJECT_DIR$/HELLO_WORLD/HELLO_WORLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/HELLO_WORLD_OBJETOS/HELLO_WORLD_OBJETOS.iml" filepath="$PROJECT_DIR$/HELLO_WORLD_OBJETOS/HELLO_WORLD_OBJETOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HELLO_WORLD_PAQUETES_POO/HELLO_WORLD_PAQUETES_POO.iml" filepath="$PROJECT_DIR$/HELLO_WORLD_PAQUETES_POO/HELLO_WORLD_PAQUETES_POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Subir a git.iml" filepath="$PROJECT_DIR$/.idea/Subir a git.iml" />
     </modules>
   </component>
